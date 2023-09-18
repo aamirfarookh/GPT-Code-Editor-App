@@ -45,12 +45,10 @@ in case OPEN_AI_KEY expires refer to this video   [CodeMaster video]()
   
 ## Screenshots
 
-Here are some screenshots of CodeMaster in action:
+Here are some screenshots of code reviwer app in action:
 
-![Screenshot 1](Frontend/screenshots/Screenshot%20_1.png)
-![Screenshot 2](Frontend/screenshots/Screenshot%20_2.png)
-![Screenshot 3](Frontend/screenshots/Screenshot%20_3.png)
-![Screenshot 4](Frontend/screenshots/Screenshot%20_4.png)
+![Screenshot 1](./gpt_code_reviewer/src/screenshots/gpt_app_home.png)
+
 
 
 ## License
