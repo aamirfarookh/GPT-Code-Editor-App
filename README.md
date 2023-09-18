@@ -25,7 +25,7 @@ CodeMaster is your go-to tool for code conversion, debugging, and code quality a
 
 To get started with CodeMaster, follow these steps:
 
-1. *Clone the repository:* `git clone https://github.com/your-username/codemaster.git`
+1. *Clone the repository:* `git clone https://github.com/your-username/GPT-Code-Editor-App.git`
 2. *Install dependencies:* `npm install` 
 3. *Run CodeMaster:* `npm start` 
 
